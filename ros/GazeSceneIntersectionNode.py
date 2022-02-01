@@ -11,7 +11,7 @@ from geometry_msgs.msg import PoseStamped
 from image_geometry import PinholeCameraModel
 from sensor_msgs.msg import Image, CameraInfo
 from tf import transformations, TransformListener, TransformBroadcaster
-from util.HoleFilling import HoleFillingFilter
+from HoleFilling import HoleFillingFilter
 
 
 class SceneGazeIntersectionProcessNode:
