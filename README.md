@@ -19,7 +19,7 @@ month = {May}
 The code is split into two parts, a node to run inside ROS1 and another standalone version.
 
 ### ROS node
-The [ros][./ros] directory contains a ROS package for real-time inference of gaze-cue/gaze-scene intersection while the [standalone](./standalone) provides the same code without ROS.
+The [ros][./ros] directory contains a ROS package for real-time inference of gaze-cue/gaze-scene intersection.
 
 
 ## Architecture
